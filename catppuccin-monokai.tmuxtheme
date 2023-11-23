@@ -2,7 +2,7 @@
 # WARNING: hex colors can't contain capital letters
 
 # --> Catppuccin (Monokai)
-thm_bg="#192227"
+thm_bg="#0f1417"
 thm_fg="#cdd6f4"
 thm_cyan="#2EDCFF"
 thm_black="#000000"
@@ -14,4 +14,4 @@ thm_green="#9DFF00"
 thm_yellow="#E6DB74"
 thm_blue="#82AAFF"
 thm_orange="#d18616"
-thm_black4="#000000"
+thm_black4="#585b70"
